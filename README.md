@@ -6,8 +6,9 @@
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/kartik-jain-7449b0251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kartik Jain LinkedIn" height="30" width="40" /></a> <a href="https://www.instagram.com/k_jain19/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik Jain Instagram" height="30" width="40" /></a> </p>
 <h3 align="left">Languages and Tools:</h3> <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <!-- Excel -->
     <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
     </a>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
