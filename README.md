@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Kartik Jain</h1> <div align="center"> </div> <h3 align="center">A passionate Data Analyst From India. I'm passionate about uncovering insights from complex datasets and enabling data-driven decision making.Proficient in Python, SQL, and data visualization tools like Tableau and Power BI..</h3> <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartik565&label=Profile%20views&color=0e75b6&style=flat" alt="Kartik565" /> </p>
-💬 Ask me about Data Analyst Projects
+💬 Ask me about Data Analysis Projects
 <br><br>
 📫 How to reach me: kartik.jain0809@gmail.com
 
